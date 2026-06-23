@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs  # Dossier de sortie pour GitHub Pages
+
+website:
+  title: "Céline Chevalier"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil
+      - href: cv.qmd
+        text: CV
+      - href: projets.qmd
+        text: Projets
+      - href: about.qmd
+        text: À propos
+  # theme: cosmo  # Thème par défaut (tu peux le changer : "darkly", "flatly", etc.)
+  repo-url: https://github.com/celinech/mon_site  # Lien vers ton dépôt GitHub
+  repo-actions: [edit, issue]  # Boutons pour éditer/remonter un bug
+
+# 
+# format:
+#   html:
+#     theme:
+#       - cosmo
+#       - brand
+#     css: styles.css
+#     toc: true
+
+editor: visual
+

@@ -1,0 +1,16 @@
+---
+title: "Projets"
+---
+
+# Mes Projets
+
+## 🧬 **Bioinformatique**
+- Développement d'un outil algorithmique au CEA (collaboration avec un chercheur biologiste).
+- Mise en place d'environnements partagés (Conda, Docker) à Marseille Medical Genetics.
+
+## 🎤 **Médiation Scientifique**
+- Atelier *"Les saveurs savantes"* pour la Fête de la Science.
+- Intervention : *"Quand la science nourrit la lutte contre le cancer"*.
+
+## 🍹 **Bar Associatif**
+- Gestion des adhésions (HelloAsso), envoi d'emails, réseaux sociaux.

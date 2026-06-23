@@ -1,0 +1,15 @@
+---
+title: "Accueil"
+---
+
+# Bienvenue sur mon site !
+
+Je suis **Céline Chevalier**, bioinformaticienne et passionnée de médiation scientifique.
+
+Ce site présente mon **parcours**, mes **compétences**, et mes **centres d'intérêt**.
+
+---
+## 🔍 À explorer
+- [Mon CV](cv.qmd)
+- [Mes projets](projets.qmd)
+- [À propos de moi](about.qmd)

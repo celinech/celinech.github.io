@@ -1,0 +1,29 @@
+---
+title: "CV"
+---
+
+# Curriculum Vitæ
+
+## 👩‍🔬 **Expérience Professionnelle**
+
+**Bioinformaticienne**
+*Inserm UMR_S1307 CRCI2NA, Nantes*   202X - Présent
+- Analyse de données de méthylation de l'ADN.
+- Développement de pipelines en Snakemake.
+- Collaboration avec le BiRD hub.
+
+**Gestion de bar associatif**
+- Comptabilité, gestion des stocks, communication.
+
+
+## 🎓 **Formation**
+
+- **Master en Biostatistiques et Bioinformatique** | Université Paris-Saclay
+- **Licence en Biologie des Organismes et Écologie** | Université Paris-Sud XI
+
+
+## 🛠 **Compétences**
+
+- **Langages** : R, Python, SQL
+- **Outils** : Quarto, Typst, Snakemake, Docker, Conda
+- **Autres** : Médiation scientifique, gestion de projet

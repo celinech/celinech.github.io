@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Bioinformaticienne Inserm UMR_S1307 CRCI2NA, Nantes 202X - Présent - Analyse de données de méthylation de l’ADN. - Développement de pipelines en Snakemake. - Collaboration avec le BiRD hub.\nGestion de bar associatif - Comptabilité, gestion des stocks, communication.\n\n\n\n\nMaster en Biostatistiques et Bioinformatique | Université Paris-Saclay\nLicence en Biologie des Organismes et Écologie | Université Paris-Sud XI\n\n\n\n\n\nLangages : R, Python, SQL\nOutils : Quarto, Typst, Snakemake, Docker, Conda\nAutres : Médiation scientifique, gestion de projet"
+  },
+  {
+    "objectID": "cv.html#expérience-professionnelle",
+    "href": "cv.html#expérience-professionnelle",
+    "title": "CV",
+    "section": "",
+    "text": "Bioinformaticienne Inserm UMR_S1307 CRCI2NA, Nantes 202X - Présent - Analyse de données de méthylation de l’ADN. - Développement de pipelines en Snakemake. - Collaboration avec le BiRD hub.\nGestion de bar associatif - Comptabilité, gestion des stocks, communication."
+  },
+  {
+    "objectID": "cv.html#formation",
+    "href": "cv.html#formation",
+    "title": "CV",
+    "section": "",
+    "text": "Master en Biostatistiques et Bioinformatique | Université Paris-Saclay\nLicence en Biologie des Organismes et Écologie | Université Paris-Sud XI"
+  },
+  {
+    "objectID": "cv.html#compétences",
+    "href": "cv.html#compétences",
+    "title": "CV",
+    "section": "",
+    "text": "Langages : R, Python, SQL\nOutils : Quarto, Typst, Snakemake, Docker, Conda\nAutres : Médiation scientifique, gestion de projet"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "À propos",
+    "section": "",
+    "text": "Je suis une bioinformaticienne engagée dans la recherche contre le cancer et la médiation scientifique. En dehors du travail, je gère un bar associatif et pratique l’escalade (CQP Cordiste).\n\n\n\n\nEmail : ton-email@example.com\nGitHub : @celinech\nLinkedIn : [lien vers ton profil]"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "À propos",
+    "section": "",
+    "text": "Email : ton-email@example.com\nGitHub : @celinech\nLinkedIn : [lien vers ton profil]"
+  },
+  {
+    "objectID": "projets.html",
+    "href": "projets.html",
+    "title": "Projets",
+    "section": "",
+    "text": "Développement d’un outil algorithmique au CEA (collaboration avec un chercheur biologiste).\nMise en place d’environnements partagés (Conda, Docker) à Marseille Medical Genetics.\n\n\n\n\n\nAtelier “Les saveurs savantes” pour la Fête de la Science.\nIntervention : “Quand la science nourrit la lutte contre le cancer”.\n\n\n\n\n\nGestion des adhésions (HelloAsso), envoi d’emails, réseaux sociaux."
+  },
+  {
+    "objectID": "projets.html#bioinformatique",
+    "href": "projets.html#bioinformatique",
+    "title": "Projets",
+    "section": "",
+    "text": "Développement d’un outil algorithmique au CEA (collaboration avec un chercheur biologiste).\nMise en place d’environnements partagés (Conda, Docker) à Marseille Medical Genetics."
+  },
+  {
+    "objectID": "projets.html#médiation-scientifique",
+    "href": "projets.html#médiation-scientifique",
+    "title": "Projets",
+    "section": "",
+    "text": "Atelier “Les saveurs savantes” pour la Fête de la Science.\nIntervention : “Quand la science nourrit la lutte contre le cancer”."
+  },
+  {
+    "objectID": "projets.html#bar-associatif",
+    "href": "projets.html#bar-associatif",
+    "title": "Projets",
+    "section": "",
+    "text": "Gestion des adhésions (HelloAsso), envoi d’emails, réseaux sociaux."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Accueil",
+    "section": "",
+    "text": "Je suis Céline Chevalier, bioinformaticienne et passionnée de médiation scientifique.\nCe site présente mon parcours, mes compétences, et mes centres d’intérêt.\n\n\n\n\nMon CV\nMes projets\nÀ propos de moi"
+  },
+  {
+    "objectID": "index.html#à-explorer",
+    "href": "index.html#à-explorer",
+    "title": "Accueil",
+    "section": "",
+    "text": "Mon CV\nMes projets\nÀ propos de moi"
+  }
+]
