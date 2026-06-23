@@ -13,4 +13,5 @@ title: "Projets"
 - Intervention : *"Quand la science nourrit la lutte contre le cancer"*.
 
 ## 🍹 **Bar Associatif**
+- Comptabilité, gestion des stocks, communication.
 - Gestion des adhésions (HelloAsso), envoi d'emails, réseaux sociaux.

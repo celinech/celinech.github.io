@@ -12,9 +12,6 @@ title: "CV"
 - Développement de pipelines en Snakemake.
 - Collaboration avec le BiRD hub.
 
-**Gestion de bar associatif**
-- Comptabilité, gestion des stocks, communication.
-
 
 ## 🎓 **Formation**
 
